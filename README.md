@@ -38,11 +38,11 @@ Run as: ```python img.py <image file name> <scaled size 0-100> <threshold 0-255>
 _This script is written for python 2.7, because I wrote it a long time ago. Would probably work with python 3 with minimal changes. You can make necessary changes to run in python 3 if you want. I'll make changes and push it in future._
 
 [original]: https://i.imgur.com/JzyWINv.png
-[ok]: https://i.imgur.com/82xTjYw.png
-[t1]: https://imgur.com/qgNA9ND
-[t2]: https://imgur.com/0jf6lf9
-[t3]: https://imgur.com/kvYPY5p
-[t4]: https://imgur.com/oDNywuh
-[smol]: https://imgur.com/QPWtFR2
-[big]: https://imgur.com/l0osvun
-[invert]: https://imgur.com/DJ6VHhZ
+[ok]: https://i.imgur.com/82xTjYw.png.png
+[t1]: https://i.imgur.com/qgNA9ND.png
+[t2]: https://i.imgur.com/0jf6lf9.png
+[t3]: https://i.imgur.com/kvYPY5p.png
+[t4]: https://i.imgur.com/oDNywuh.png
+[smol]: https://i.imgur.com/QPWtFR2.png
+[big]: https://i.imgur.com/l0osvun.png
+[invert]: https://i.imgur.com/DJ6VHhZ.png
