@@ -15,8 +15,10 @@ pretty cool, huh?
 
 ## Dependencies
 Python 2.7
+
 pip install opencv-python --user
 
+## Details
 Run as: ```python img.py <image file name> <scaled size 0-100> <threshold 0-255> <invert image 0 or 1>```
 
 ```image file name```: Name of image file to convert
