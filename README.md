@@ -38,7 +38,7 @@ Run as: ```python img.py <image file name> <scaled size 0-100> <threshold 0-255>
 _This script is written for python 2.7, because I wrote it a long time ago. Would probably work with python 3 with minimal changes. You can make necessary changes to run in python 3 if you want. I'll make changes and push it in future._
 
 [original]: https://imgur.com/JzyWINv
-[ok]: https://imgur.com/82xTjYw
+[ok]: https://i.imgur.com/82xTjYw.png
 [t1]: https://imgur.com/qgNA9ND
 [t2]: https://imgur.com/0jf6lf9
 [t3]: https://imgur.com/kvYPY5p
