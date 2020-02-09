@@ -33,7 +33,7 @@ Run as: ```python img.py <image file name> <scaled size 0-100> <threshold 0-255>
 
 ```invert image```: This is very important. It inverts the flips the black and white dots in braille output. In case you are using light mode (white background) instead of dark mode (black background), you should invert the image for it to look better. Just generate both, with this being set to 0 and 1 and see for yourself which one looks better.
 
-
+![invert][invert]
 
 _This script is written for python 2.7, because I wrote it a long time ago. Would probably work with python 3 with minimal changes. You can make necessary changes to run in python 3 if you want. I'll make changes and push it in future._
 
