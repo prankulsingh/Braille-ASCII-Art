@@ -29,7 +29,7 @@ Run as: ```python img.py <image file name> <scaled size 0-100> <threshold 0-255>
 ![ok][ok]
 ![big][big]
 
-```threshold```: So the image is first converted into a grayscale image. Each pixel has a value between 0-255 (inclusive), 0 being the blackest and 255 being the whitest, with about 2_50 shades of grey_ in between. This value decides upto which value should a single pixel should be considered black, and after which point should it be considered white.
+```threshold```: So the image is first converted into a grayscale image. Each pixel has a value between 0-255 (inclusive), 0 being the blackest and 255 being the whitest, with about 250 shades of grey in between. This value decides upto which value should a single pixel should be considered black, and after which point should it be considered white.
 
 ![t1][t1]
 ![t2][t2]
