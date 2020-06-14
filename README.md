@@ -1,6 +1,8 @@
 
 # Braille ASCII Art
 
+_You can find this implemented in this telegram bot: http://t.me/braille_ascii_art_bot_ 
+
 So what this does is convert an image to braille ascii art.
 
 basically, converts this 
